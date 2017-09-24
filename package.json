@@ -1,0 +1,35 @@
+{
+  "name": "quantedge_test_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server"
+  },
+  "author": "Keitiey JS",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "material-ui": "^0.19.2",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-test-renderer": "^15.6.1",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^21.0.2",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "enzyme": "^2.9.1",
+    "eslint-config-rallycoding": "^3.2.0",
+    "jest": "^21.1.0"
+  }
+}

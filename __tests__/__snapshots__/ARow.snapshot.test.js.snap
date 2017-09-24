@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ARow component renders the company correctly 1`] = `
+<tr
+  className={undefined}
+  style={
+    Object {
+      "backgroundColor": "#FDFDFD",
+      "borderBottom": "1px solid #e0e0e0",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "height": 48,
+      "muiPrepared": true,
+      "tableRow": Object {
+        "borderBottomWidth": "2px",
+      },
+    }
+  }
+>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "color": "#529AE2",
+        "fontSize": 13,
+        "fontWeight": "bolder",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "left",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "10%",
+      }
+    }
+  >
+    ANZ.AX
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "color": "#777777",
+        "fontSize": 13,
+        "fontWeight": "500",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "left",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "40%",
+      }
+    }
+  >
+    AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "fontSize": 13,
+        "fontWeight": "bolder",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "right",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "10%",
+      }
+    }
+  >
+    29.17
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "display": "none",
+        "fontSize": 13,
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "left",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+      }
+    }
+  >
+    673111
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "right",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "20%",
+      }
+    }
+  >
+    19,634,648
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "color": "#08D66B",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "right",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "10%",
+      }
+    }
+  >
+    0.39
+  </td>
+  <td
+    className={undefined}
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "backgroundColor": "inherit",
+        "color": "#08D66B",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "height": 48,
+        "muiPrepared": true,
+        "overflow": "hidden",
+        "paddingLeft": 24,
+        "paddingRight": 24,
+        "textAlign": "right",
+        "textOverflow": "ellipsis",
+        "whiteSpace": "nowrap",
+        "width": "10%",
+      }
+    }
+  >
+    1.36
+    %
+  </td>
+</tr>
+`;
