@@ -1,4 +1,4 @@
-Cách chạy chương trình:
+Chạy chương trình:
 
     + clone project
     
