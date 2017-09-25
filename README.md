@@ -10,8 +10,7 @@ Chạy chương trình:
     
         + npm test
         
-        
-    Chạy project:
+    Chạy project:
     
         + npm start (http://localhost:8080)
         
