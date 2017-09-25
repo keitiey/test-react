@@ -38,7 +38,7 @@ class Company {
 
     resetVolume(nextVolume) { this.volume = nextVolume; }
 
-    setValue(currentPrice, currentVolume) {
+    resetValue(currentPrice, currentVolume) {
         this.value = parseInt((currentPrice * currentVolume).toFixed(0), 10);
     }
 
@@ -73,7 +73,7 @@ class Company {
         this.setPercentChange(this.change, this.price);
         this.resetPrice(nextPrice);
         this.resetVolume(nextVolume);
-        this.setValue(this.price, this.volume);
+        this.resetValue(this.price, this.volume);
     }
 }
 

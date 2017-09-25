@@ -24450,8 +24450,8 @@ var Company = function () {
             this.volume = nextVolume;
         }
     }, {
-        key: 'setValue',
-        value: function setValue(currentPrice, currentVolume) {
+        key: 'resetValue',
+        value: function resetValue(currentPrice, currentVolume) {
             this.value = parseInt((currentPrice * currentVolume).toFixed(0), 10);
         }
     }, {
@@ -24487,7 +24487,7 @@ var Company = function () {
             this.setPercentChange(this.change, this.price);
             this.resetPrice(nextPrice);
             this.resetVolume(nextVolume);
-            this.setValue(this.price, this.volume);
+            this.resetValue(this.price, this.volume);
         }
     }]);
 

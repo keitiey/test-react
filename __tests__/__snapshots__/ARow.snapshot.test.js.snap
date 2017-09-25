@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ARow component renders the company correctly 1`] = `
+exports[`snapshots ARow component ARow component renders the company correctly 1`] = `
 <tr
   className={undefined}
   style={
