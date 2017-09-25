@@ -2,7 +2,8 @@ Chạy chương trình:
 
     + clone project
     + cd /path-to-project
-    Chạy test: 
+    + npm install
+    Chạy test: 
         + npm test
     Chạy project:
         + npm start (http://localhost:8080)
