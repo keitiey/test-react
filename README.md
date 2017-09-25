@@ -14,7 +14,7 @@ Mô tả:
 
     + Server cung cấp api để fetch dữ liệu là danh sách các công ty chứng khoán (http://localhost:8080/api)
     
-    + Mỗi lần có request lên api thì dữ liệu trong đó sẽ tự động thay đổi giả lập theo yêu cầu.
+    + Mỗi lần có request lên api thì dữ liệu trong đó sẽ tự động thay đổi theo yêu cầu.
     
     + Tại component Main.js sẽ fetch dữ liệu lần đầu tiên trong constructor để khởi tạo dữ liệu, sau đó tại componentDidMout() dữ liệu sẽ được fetch 5s 1 lần để giả lập sự thay đổi 
     
