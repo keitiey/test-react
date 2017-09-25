@@ -1,7 +1,9 @@
 Chạy chương trình:
 
     + clone project
+    
     + cd /path-to-project
+    
     + npm install
     
     Chạy test: 
