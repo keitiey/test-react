@@ -5,9 +5,13 @@ Chạy chương trình:
     + npm install
     
     Chạy test: 
+    
         + npm test
+        
     Chạy project:
+    
         + npm start (http://localhost:8080)
+        
 Mô tả: 
 
     + Server cung cấp api để fetch dữ liệu là danh sách các công ty chứng khoán (http://localhost:8080/api). Mỗi lần có request lên api thì dữ liệu trong đó sẽ tự động thay đổi giả lập theo yêu cầu.
